@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "pK0FPcVvV+I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\vanii\\source\\repos\\my-books\\my-books\\my-books.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\vanii\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.1\\microsoft.aspnetcore.openapi.9.0.1.nupkg.sha512",
+    "C:\\Users\\vanii\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
